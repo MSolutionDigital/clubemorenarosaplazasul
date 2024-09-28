@@ -1,0 +1,35 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_2A4C3F42_2CA5_38F7_41C6_2AF73F8F4B34.source = https://www.instagram.com/clubemorenarosaplazasul/
+LinkBehaviour_2C9452F3_2CA5_0996_41CA_4D1C7872041E.source = https://www.instagram.com/clubemorenarosaplazasul/
+LinkBehaviour_2ABF7C4E_2CA3_788F_41B6_DF372E2FD85E.source = https://www.instagram.com/msolutiondigital/
+LinkBehaviour_2DDC9EDA_2CA3_7996_41C7_440D5E24A9C3.source = https://www.instagram.com/msolutiondigital/
+
+## Media
+
+### Audio
+audiores_2C9A40F2_2CAD_0996_415D_BFCE989AC9E6.mp3Url = media/audio_2A787CE2_2C7F_19B7_41C1_8ADDA8272BEC_pt.mp3
+
+## Skin
+
+### Image
+Image_2A1FB68D_2C5F_0872_41A6_7BA081E72181.url = skin/Image_2A1FB68D_2C5F_0872_41A6_7BA081E72181_pt.png
+Image_2A8F5318_2C5D_0892_41C9_D4A5906D4699.url = skin/Image_2A8F5318_2C5D_0892_41C9_D4A5906D4699_pt.png
+Image_2D74542B_2C5F_08B5_41B9_A00BAC1B99DC.url = skin/Image_2D74542B_2C5F_08B5_41B9_A00BAC1B99DC_pt.png
+Image_2DC80929_2CA3_18B5_41CB_52A6957C41D2.url = skin/Image_2DC80929_2CA3_18B5_41CB_52A6957C41D2_pt.png
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Shopping Plaza Sul \
+Endereço: Praça Leonor Kaupa, 100 - 1°Andar Loja 207/208 - Jardim da Saúde, São Paulo - SP
+
+### Title
+tour.name = CLUBE MORENA ROSA - TOUR VIRTUAL 360°
